@@ -1,2 +1,2 @@
 # ScalaTutorial
-Exercises form the scala course
+Exercises from the scala course
